@@ -5,6 +5,7 @@
 
   <introduction>
     <p> Text before the first section. </p>
+    <p> Hello, world! </p>
   </introduction>
 
   <!-- include sections -->
